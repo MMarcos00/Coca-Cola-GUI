@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Marcos Méndez
+Main-Class: Main
+X-COMMENT: Proyecto en Java Swing

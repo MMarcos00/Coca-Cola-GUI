@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Proyecto:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Proyecto_jar</output-path>
+    <root id="archive" name="Proyecto.jar">
+      <element id="module-output" name="Proyecto" />
+      <element id="dir-copy" path="$PROJECT_DIR$/src/main/resources" />
+    </root>
+  </artifact>
+</component>
